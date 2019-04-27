@@ -37,3 +37,5 @@
 ```https://drive.google.com/uc?export=download&id=12fNOuhLkYQ4Xiaqsda34qdC4jKVowSI2```
 
 ![import from zip](/Install%20Images/Step4.PNG?raw=true)
+
+8. Click Ok and you are ready to go.
