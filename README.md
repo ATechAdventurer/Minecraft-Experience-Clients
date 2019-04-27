@@ -20,7 +20,7 @@
 
 6. Paste the following in the link field:
 
-```https://drive.google.com/uc?export=download&id=12fNOuhLkYQ4Xiaqsda34qdC4jKVowSI2```
+```https://dl.getdropbox.com/s/xj8risv1gqwb72m/McExperience-Non-VR.zip```
 
 ![import from zip](/Install%20Images/Step3.PNG?raw=true)
 
@@ -34,7 +34,7 @@
 
 7. Paste the following in the link field:
 
-```https://drive.google.com/uc?export=download&id=12fNOuhLkYQ4Xiaqsda34qdC4jKVowSI2```
+```https://dl.getdropbox.com/s/mhavs3bl9wxax3j/McExperience-VR.zip```
 
 ![import from zip](/Install%20Images/Step4.PNG?raw=true)
 
